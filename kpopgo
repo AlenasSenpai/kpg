@@ -21,8 +21,8 @@
       "manager":"#7854a9",
       "bouncer":"#626cbc",
       "rdj":"#547bc9",
-      "subscriber":"#ffcf00",
-      "friend":"#90ba3c",
+      "subscriber":null,
+      "friend":null,
       "user":null
    },
    "images":{
