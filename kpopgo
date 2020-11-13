@@ -1,6 +1,6 @@
 {
    "room":"Kpop GO",
-   "author":"Uikae",
+   "author":"Uikae + AlenasSenpai",
    "icon":"https://i.imgur.com/0Bek0VW.png",
    "css":"https://raw.githack.com/misarasglow/Kpop-GO-Theme/master/kpg.css",
    "rules":{
@@ -21,8 +21,8 @@
       "manager":"#7854a9",
       "bouncer":"#626cbc",
       "rdj":"#547bc9",
-      "subscriber":null,
-      "friend":null,
+      "subscriber":"#ffcf00",
+      "friend":"#90ba3c",
       "user":null
    },
    "images":{
